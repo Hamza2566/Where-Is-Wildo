@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+width: 100%;
+}
+.wrapper img{
+    position: absolute;
+    width: 100%;
+    cursor:url(../public/small.png),auto;
+}
