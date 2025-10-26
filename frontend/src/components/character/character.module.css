@@ -1,0 +1,19 @@
+.charcontainer{
+    position: relative;
+    width:8%;
+    left: 40%;
+    top: 30px;
+}
+.imgcontainer{
+    height: 100%;
+    display: flex;
+     gap: 180px;
+     justify-content: space-between;
+}
+.imgcontainer > *{
+flex: 1;
+}
+.imgcontainer img{
+    width: 96%;
+    height: 120px;
+}

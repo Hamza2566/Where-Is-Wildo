@@ -10,3 +10,22 @@ width: 100%;
     width: 100%;
     cursor:url(../public/small.png),auto;
 }
+.charcontainer{
+    position: relative;
+    width:7%;
+    height: 40vh;
+}
+.imgcontainer{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+     gap: 10px;
+     justify-content: space-between;
+}
+.imgcontainer > *{
+flex: 1;
+}
+.imgcontainer img{
+    width: 96%;
+    height: 120px;
+}

@@ -4,7 +4,7 @@ import style from "./home.module.css"
 function Home() {
   return (
     <div className={style.wrapper}>
-        jhsjfh
+        lksflkj
     </div>
   )
 }
